@@ -1,4 +1,4 @@
-# Easy Scheduled Method Launch
+# Easy Spring Boot Scheduled Method Launch
 
 To launch every interval one method.
 
